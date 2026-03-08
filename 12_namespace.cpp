@@ -14,8 +14,9 @@ namespace Teacher {
 }
 
 int main() {
-    Student::info(); // Student namespace এর info ফাংশন
-    Teacher::info(); // Teacher namespace এর info ফাংশন
+    Student::info(); 
+    Teacher::info(); 
     return 0;
 }
+
 
